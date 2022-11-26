@@ -21,7 +21,7 @@ const Cards = ({ titulo, descricao }: any) => {
 
 export const Corpo = () => {
     return (
-        <div className="bg-[#F3F5F7]  h-auto container mx-auto max-w-lg md:max-w-7xl px-5 space-y-20">
+        <div className="bg-[#F3F5F7]  h-auto container mx-auto max-w-lg md:max-w-7xl px-5 pb-20 space-y-20">
             <Cards
                 titulo="Agora é oficial: o Windows 11 está vindo"
                 descricao="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum auctor est. Nam vitae finibus ante. Duis lobortis tellus vel diam fringilla, eu ullamcorper ex iaculis."

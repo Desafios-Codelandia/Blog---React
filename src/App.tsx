@@ -6,7 +6,7 @@ import { Corpo } from "./components/corpo/corpoSection"
 export default function App() {
 
   return (
-    <div className="App bg-[#F3F5F7] text-body">
+    <div className="App bg-[#F3F5F7] font-Body">
         <NavBar/>
         <Corpo/>
     </div>

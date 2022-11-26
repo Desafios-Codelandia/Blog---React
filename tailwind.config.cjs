@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Lexend Deca']
+        Body: ['Lexend Deca']
       }
     },
   },
